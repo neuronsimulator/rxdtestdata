@@ -1,2 +1,2 @@
 # rxdtestdata
-Data used to test the NEURON rxd module
+Data used to test the NEURON rxd module.
